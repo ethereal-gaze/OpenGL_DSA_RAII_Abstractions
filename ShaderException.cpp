@@ -1,5 +1,5 @@
 //
-// Created by Benjamin Gosling on 09/11/2022.
+// Created by Skye Gosling on 09/11/2022.
 //
 
 #include "ShaderException.h"
