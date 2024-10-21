@@ -1,5 +1,5 @@
 //
-// Created by Benjamin Gosling on 08/11/2022.
+// Created by Skye Gosling on 08/11/2022.
 //
 
 #ifndef KRYSTAL_SHADER_H
